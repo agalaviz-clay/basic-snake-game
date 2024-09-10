@@ -1,6 +1,6 @@
 # Basic Snake Game
 
-### The objective is simple: eat the red apple and GROW as big as possible!
+**The objective is simple: eat the red apple and GROW as big as possible!**
 
 A basic HTML snake game. Open the HTML file in a browser to get started.
 
@@ -9,10 +9,11 @@ A basic HTML snake game. Open the HTML file in a browser to get started.
 ### Images
 A simple gif of the game in action. 
 
-The current score and high score are tracked at the top right. The snake spawns in the same x,y coordinate but the apple is randomly spawned. Data is stored in memory as JavaScript variables and would be lost if the page is closed or refreshed.
+*The current score and high score are tracked at the top right. The snake spawns in the same x,y coordinate but the apple 
+is randomly spawned. Data is stored in memory as JavaScript variables and would be lost if the page is closed or refreshed.*
 
-![](images\sample-gameplay.gif)
+![](images/sample-gameplay.gif)
 
 When the snake collides with the wall or its own tail, then a game over text pop up asking to replay or not.
 
-![](images\game-over-screen.png)
+![](images/game-over-screen.png)
