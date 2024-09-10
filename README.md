@@ -6,11 +6,13 @@ A basic HTML snake game. Open the HTML file in a browser to get started.
 
 *Based off the tutorial at: https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript*
 
-### Images
-A simple gif of the game in action. 
+### Details
+The current score and high score are tracked at the top right. They increment by one for each eaten apple. The snake spawns in the same x,y coordinate but the apple 
+is randomly spawned. Data is stored in memory as JavaScript variables and would be lost if the page is closed or refreshed.
 
-*The current score and high score are tracked at the top right. The snake spawns in the same x,y coordinate but the apple 
-is randomly spawned. Data is stored in memory as JavaScript variables and would be lost if the page is closed or refreshed.*
+### Images
+
+A simple gif of the game in action. 
 
 ![](images/sample-gameplay.gif)
 
